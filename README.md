@@ -4,4 +4,4 @@ This repository contains my exercises and solutions in basic programming, in the
 ## Learning Topics
 
 * <span style="blue">[Arrays](https://github.com/adiredri/BasicCsharp/blob/main/Arrays.cs "Arrays")</span>
-* <span style="blue">[Strings]([https://github.com/adiredri/BasicCsharp/blob/main/Strings.cs "Strings")</span>
+* <span style="blue">[Strings](https://github.com/adiredri/BasicCsharp/blob/main/Strings.cs "Strings")</span>
